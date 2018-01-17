@@ -1,6 +1,6 @@
-<h1>Code Book
+# Code Book
 
-This code book contains all the variables and summaries calculated, along with units, and any other relevant information in tidy.txt.
+## This code book contains all the variables and summaries calculated, along with units, and any other relevant information in tidy.txt.
 
 Identifiers
 
