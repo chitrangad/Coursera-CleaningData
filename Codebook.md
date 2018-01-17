@@ -2,13 +2,13 @@
 
 This code book contains all the variables and summaries calculated, along with units, and any other relevant information in tidy.txt.
 
-**Identifiers
+Identifiers
 
 subject - The ID of the person
 
 activity - Activity type for the measurements in activity file
 
-**Following measurements (mean and std deviation) are available in tidy.txt
+Following measurements (mean and std deviation) are available in tidy.txt
 
  * tBodyAccMeanX  
  * tBodyAccMeanY  
@@ -90,7 +90,7 @@ activity - Activity type for the measurements in activity file
  * fBodyBodyGyroJerkMagStd  
  * fBodyBodyGyroJerkMagMeanFreq    
  
- **Activity names
+ Activity names
 
 * WALKING (value 1): Normal walk
 * WALKING_UPSTAIRS (value 2): Climbing up stairs
