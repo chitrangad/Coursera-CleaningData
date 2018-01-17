@@ -1,5 +1,6 @@
 # Coursera-CleaningData
-## Repo for final project for the course. The repo has 3 files: readme.md, codebook.md, run_analysis.R
+
+**Repo for final project for the course. The repo has 4 files: readme.md, codebook.md, run_analysis.R, tidy.txt**
 
 Following is accomplished in this project:
 
