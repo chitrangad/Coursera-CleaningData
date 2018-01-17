@@ -1,4 +1,4 @@
-<h1>Code Book
+<h1>Code Book<h1>
 
 This code book contains all the variables and summaries calculated, along with units, and any other relevant information in tidy.txt.
 
